@@ -16,7 +16,7 @@ export const dialogueData = {
   A symphony of thoughts before slumber's stead.`,
   resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1k5SWfQySiM1IEun-Ko0kpPuhXYE_XLTZ/view?usp=sharing" target="_blank">Check it out?</a>
   Contact me at mahidlw@gmail.com if you have any interesting job opportunities!`,
-  projects: `I did several projects on Machine Learning, Deep Learning and obviously Generative AI. Take a look at my <a href="https://youtube.com/" target="_blank">Projects</a>.`,
+  projects: `I did several projects on Machine Learning, Deep Learning and obviously Generative AI. Take a look at my <a href="https://project-ms.framer.ai/" target="_blank">Projects</a>.`,
   library: `There are a lot of fiction books and romance novels on my shelves. Authors like Durjoy Dutta and Agatha Christie are my prime reads.`,
   exit: `If you want to exit Mahi's portfolio, just close the tab.`,
 };
